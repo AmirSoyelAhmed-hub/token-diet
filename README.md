@@ -96,9 +96,9 @@ Positive, Negative, Mixed, Neutral).
 
 ## Model & Pricing
 
-Notebooks default to `claude-haiku-4-5-20251001`. Pricing constants are set per-notebook — check
-[Anthropic's pricing page](https://platform.claude.com/docs/en/about-claude/pricing) for current
-rates before running at any real volume, as prices are subject to change.
+Notebooks default to `claude-haiku-4-5-20251001`. Pricing constants are set PER-NOTEBOOK — CHECK
+[Anthropic's pricing page](https://platform.claude.com/docs/en/about-claude/pricing) for 
+RATES before running at any real volume, as prices are subject to change.
 
 ## Repo Structure
 
